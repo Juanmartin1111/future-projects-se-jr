@@ -1,2 +1,2 @@
 # future-projects-se-jr
-Fute project on Software Engineering class of 2020
+This repository contains all future projects of my Software Engineering class of 2020
